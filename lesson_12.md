@@ -12,7 +12,9 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](Unit 1 Word/Lab 1.2 SNAP Scavenger Hunt.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=rJmltydojDSzEXH6CgB09OBvQwgDwjL2DxKUsAS7w0c%3d&docid=0e369dea97ab041e38a1360b6013dae54))
--   Read through the handout so that you are familiar with the requirements and can assist students
+-   Set up auto-repeat 5 min timer
+-   Set up Do Now as discussion forum on schoology
+-   Set up schoology assignment to turn in link for lab
 
 ## Pacing Guide
 
@@ -20,11 +22,12 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
-| 25 minutes | "SNAP Scavenger Hunt" Lab activity            |
+| 55 minutes | "SNAP Scavenger Hunt" Lab activity            |
 | 15 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
 
+0.  Do Now: What is the difference between a "block" and a "script"?
 1.  Introductory discussion
 
     -   Review the basics of SNAP from the previous lesson
@@ -37,12 +40,13 @@ Students will be able to...
 
 2.  Activity
 
-    -   Individually or in pairs, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
+    -   In pairs, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
         -   Students should turn in answers to all questions and SNAP programs for the final problems
+    -   Check and assign grades to students as they finish parts 1 and 2. Grade on effort and completion. Correctness will be checked during debrief.
 
 3.  Debrief
-    -   Go through each question or prompt in parts 1 and 2 and ask students to share their answer
-        -   Cold calling works well for this lab due to the large number of questions
+    -   Project solutions and have students check their worksheets
+        -   Invite students to ask questions if they got something wrong + they don't understand why
         -   Point out the color coding for each category
         -   Emphasize important details in some of the blocks listed in part 2, such as:
             -   the ![](think.png) block will leave the bubble on the stage until something else is thought
