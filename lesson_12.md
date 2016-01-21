@@ -27,7 +27,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
-0.  Do Now: What is the difference between a "block" and a "script"?
+0.  Do Now: label the SNAP interface worksheet
 1.  Introductory discussion
 
     -   Review the basics of SNAP from the previous lesson
