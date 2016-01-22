@@ -15,19 +15,22 @@ Students will be able to...
 -   Set up auto-repeat 5 min timer
 -   Set up Do Now as discussion forum on schoology
 -   Set up schoology assignment to turn in link for lab
+-   Set up webpage for random pairs
+-   Open lab doc
 
 ## Pacing Guide
 
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
-| 5 minutes  | Welcome, attendance, bell work, announcements |
+| 10 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
-| 55 minutes | "SNAP Scavenger Hunt" Lab activity            |
+| 50 minutes | "SNAP Scavenger Hunt" Lab activity            |
 | 15 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
 
 0.  Do Now: label the SNAP interface worksheet
+    -   Announce stamp system
 1.  Introductory discussion
 
     -   Review the basics of SNAP from the previous lesson
@@ -37,15 +40,18 @@ Students will be able to...
             -   Explain how scripts are executed (one block at a time in order)
     -   Introduce the concept of block categories
         -   Ask students to consider why categories are helpful as opposed to having a simple list of blocks
+    -   Read off the objectives for today
 
 2.  Activity
-
-    -   In pairs, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
-        -   Students should turn in answers to all questions and SNAP programs for the final problems
+    -   Read activity instructions. ["SNAP Scavenger Hunt"](lab_12.md)
+    -   Assign students random partners.
+    -   Project the lab so students can see what color the blocks are
+    -   Set timer for 9:10am to allow time for debrief.
     -   Check and assign grades to students as they finish parts 1 and 2. Grade on effort and completion. Correctness will be checked during debrief.
+    -   Students should turn in 1 project per partner for part 3. When turning in link, must mention partner's name.
 
 3.  Debrief
-    -   Project solutions and have students check their worksheets
+    -   Project solutions for 1.1 and 2.1 and have students check their worksheets
         -   Invite students to ask questions if they got something wrong + they don't understand why
         -   Point out the color coding for each category
         -   Emphasize important details in some of the blocks listed in part 2, such as:
