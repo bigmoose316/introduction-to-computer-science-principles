@@ -13,7 +13,8 @@ Students will be able to...
 
 -   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](Unit 1 Word/Lab 1.2 SNAP Scavenger Hunt.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=rJmltydojDSzEXH6CgB09OBvQwgDwjL2DxKUsAS7w0c%3d&docid=0e369dea97ab041e38a1360b6013dae54))
 -   Set up auto-repeat 5 min timer
--   Set up Do Now as discussion forum on schoology
+-   Make copies of lab, do now
+-   Cut up word bank
 -   Set up schoology assignment to turn in link for lab
 -   Set up webpage for random pairs
 -   Open lab doc
